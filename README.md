@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/antgame11/antgame11/refs/heads/main/antprofile.gif">
+<img width="100%" src="https://raw.githubusercontent.com/antgame11/antgame11/refs/heads/main/antprofile.gif">
 
 <table align="center">
   <tbody><tr>
