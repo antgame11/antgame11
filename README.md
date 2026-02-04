@@ -14,7 +14,7 @@
 </p>
 <br>
 <h3>Stuff I'm decently proficient with:</h3>
-<img src="https://skillicons.dev/icons?i=js,html,css,lua,arch,linux,robloxstudio,nodejs,illustrator,photoshop,premiere&perline=8" alt="My Skills">
+<img src="https://skillicons.dev/icons?i=js,python,lua,arch,linux,robloxstudio,nodejs,illustrator,photoshop,premiere&perline=9" alt="My Skills">
 
 <h3>Stuff I wanna learn (or learn more):</h3>
 <img src="https://skillicons.dev/icons?i=java,ts,c,electron,docker,bash&perline=9" alt="My Skills">
