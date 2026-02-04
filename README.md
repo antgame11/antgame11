@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Andrew! (aka Ant)</h1>
 
 <h3 align="center">
-  I'm an amateur developer and a licensed ham radio operator
-</h3>
+  I'm a 17 year old amateur developer and a licensed ham radio operator
+</h3> <!-- If you're curious, I have the Technician license -->
 <br>
 <p align="center">
   I can develop both backend and frontend. I struggle with frontend but I'm still able to write something functional, lol.
