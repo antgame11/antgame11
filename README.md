@@ -1,20 +1,17 @@
-<h1 align="center">Hello, I'm Andrew! (aka Ant)</h1>
+<h1 align="center">hi, im andrew (aka Ant)</h1>
 
 <h3 align="center">
-  I'm a 17 year old amateur developer and a licensed ham radio operator
-</h3> <!-- If you're curious, I have the Technician license -->
+  im a 17 year old developer(?), licensed ham radio operator, and a certified viber
+</h3>
 <br>
 <p align="center">
-  I can develop both backend and frontend. I struggle with frontend but I'm still able to write something functional, lol.
+  i do a little bit of backend and frontend. i suck at frontend
   <br><br>
-  I don't have professional experience and I'm still learning proper coding
-  practices, but I'm motivated to improve and grow as a developer over time. :)
-  <br><br>
-  I'd say my knowledge is very broad, I know a lot about stuff related to development, security, electronics, Linux, but I'm not a professional in anything.
+  im not a pro at any of this stuff, but im learning i guess
 </p>
 <br>
-<h3>Stuff I'm decently proficient with:</h3>
-<img src="https://skillicons.dev/icons?i=js,python,lua,arch,linux,robloxstudio,nodejs,illustrator,photoshop,premiere&perline=9" alt="My Skills">
+<h3>stuff I know a bit of:</h3>
+<img src="https://skillicons.dev/icons?i=js,python,lua,java,arch,linux,robloxstudio,nodejs,illustrator,photoshop,premiere&perline=9" alt="My Skills">
 
-<h3>Stuff I wanna learn (or learn more):</h3>
-<img src="https://skillicons.dev/icons?i=java,ts,c,electron,docker,bash&perline=9" alt="My Skills">
+<h3>stuff I wanna learn:</h3>
+<img src="https://skillicons.dev/icons?i=c,rust&perline=9" alt="what i wanna learn">
